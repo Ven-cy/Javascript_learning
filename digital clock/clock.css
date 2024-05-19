@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    justify-items: auto;
+    margin: 300px;
+    background-color:black;
+    color: white;
+}
+.banner{
+    border: 5px solid #e6560d;
+    background-color: rgb(16, 19, 209);
+}
+.clock{
+    background-color:#e6560d;
+    margin-top:10px;
+    border-radius: 5%;
+    height: 30px;
+}
+.center{
+    border:3px solid #fff;
+    width: 200px;
+    height: auto;
+}

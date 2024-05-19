@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/1164668669/photo/mechanical-weight-scale-body-mass-control-concept-bathroom-scale-personal-accurate-body-fat.jpg?s=612x612&w=0&k=20&c=ollirjR95Q5XQ_5vpwJfqtyy1aN68WsWt1Ytdw54rHg=);
+    color: black;
+    justify-content: center;
+    text-align: center;
+}
+form{
+    background-color:rgba(255, 255, 255, 0.7);
+    margin:10px 275px;
+    font-size: 35px;
+    border: 12px solid #212121;
+}
+h1{
+    background-color: white;
+    border: 12px solid #212121;
+    width:350px;
+    height:auto;
+    margin: auto;
+}
+p{
+    border: 5px solid #212121;
+    margin: 12px;
+}
+input{
+    margin:auto;
+    height:50px;
+}
+#result{
+    border: 5px solid #212121;
+    width:200px;
+    height:auto;
+    margin: auto;
+}
+button{
+    border: 5px solid #212121;
+    width:200px;
+    height:auto;
+    margin: auto;
+    font-size: 30px;
+}
