@@ -1,24 +1,23 @@
-*{
-    background-image: url(https://media.istockphoto.com/id/495686897/photo/brown-living-room-with-staircase.jpg?s=2048x2048&w=is&k=20&c=RNvq0tfv3L7Wg_L_OfZkx4eFWNRy4R1RqHqLLQPrHAA=);
-    background-size: 1600px;
-}
 body {
     text-align: center;
     background-color:black;
     color:#fff;
     margin-left:520px;
-    margin-top: 100px;
+    margin-top: 200px;
     width:200px;
+    font-size: 70px;
 }
 .banner{
     border: 5px solid #e6560d;
+    background-color: blue;
 }
 .clock{
     margin-top:10px;
-    border-radius: 5%;
-    height: 30px;
+    border:5px solid blue;
+    background-color: #e6560d;
 }
 .center{
-    border:3px solid #fff;
-    width: 200px;
+    border:10px solid #fff;
+    width: 600px;
+    background-color: #fff;
 }

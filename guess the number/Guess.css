@@ -1,9 +1,22 @@
 body{
-    justify-content: center;
     text-align: center;
     background-color: black;
     color: white;
+    font-size: 25px;
 }
+
 h1{
-    background-color: dimgray;
+    background-color: #a393eb;
+}
+img{
+    width: 400px;
+}
+.guessFeild{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+#submit{
+    height: 25px;
+    background-color: #a393eb;
 }
