@@ -1,14 +1,13 @@
 *{
-    background-image: url(https://plus.unsplash.com/premium_photo-1670349273408-50474d2b2312?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
-    background-size: 1200px;
+    background-image: url(https://media.istockphoto.com/id/495686897/photo/brown-living-room-with-staircase.jpg?s=2048x2048&w=is&k=20&c=RNvq0tfv3L7Wg_L_OfZkx4eFWNRy4R1RqHqLLQPrHAA=);
+    background-size: 1600px;
 }
 body {
     text-align: center;
     background-color:black;
     color:#fff;
-    margin-left:720px;
-    margin-top: 300px;
-    rotate: 7deg;
+    margin-left:520px;
+    margin-top: 100px;
     width:200px;
 }
 .banner{
