@@ -1,6 +1,6 @@
-let randomNumber=parseInt(math.random()*100+1);
+let randomNumber=parseInt(Math.random()*100+1);
 
-const submit=document.querySelector('.#submit');
+const submit=document.querySelector('#submit');
 const userinput=document.querySelector('#guessFeild');
 const guessslot=document.querySelector('.guesses');
 const remaining=document.querySelector('.lastResult');
@@ -12,7 +12,7 @@ const p=document.createElement('p');
 let prevguess=[];
 let numguess=1;
 
-let palyGame=true;
+let playGame=true;
 
 if(playGame){
     submit.addEventListener('click',function(e){
@@ -72,7 +72,7 @@ function endGame(){
 function startGame(){
     let nemGame=document.querySelector("#startGame");
     nemGame.addEventListener('click',(e)=>{
-        randomNumber=parseInt(math.random()*100+1);
+        randomNumber=parseInt(Math.random()*100+1);
         prevguess=[];
         numguess=1;
         guessslot.innerHTML='';
