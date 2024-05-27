@@ -10,8 +10,8 @@ function tossCoinFunction() {
 	const randomVal = Math.random(); 
 	const faceCoin = randomVal < 0.5 ? 'Heads' : 'Tails'; 
 	const imageUrl = faceCoin === 'Heads' ? 
-'https://iili.io/JLSVnwX.png' : 
-'https://iili.io/JLSVkog.png'; 
+'https://iili.io/JLUzIh7.png' : 
+'https://iili.io/JLUnkT7.png'; 
 		
 	coinIcon.classList.add('flip'); 
 	setTimeout(() => { 
